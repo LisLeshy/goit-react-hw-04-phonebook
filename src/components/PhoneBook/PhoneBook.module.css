@@ -1,0 +1,30 @@
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+  
+}
+.title {
+   
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+
+    color: violet;
+   
+}
+
+.title__color {
+    color: blueviolet;
+}
+
+.subtitle {
+    margin-bottom: 15px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: blueviolet
+    ;
+
+    
+}
